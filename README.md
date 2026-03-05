@@ -1,1 +1,3 @@
-# ShellGPT-docker
+docker run --rm -it shellgpt
+
+
